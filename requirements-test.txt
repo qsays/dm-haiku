@@ -4,3 +4,4 @@ tensorflow-datasets>1
 docutils
 pytest-xdist
 virtualenv
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
